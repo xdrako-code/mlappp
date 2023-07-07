@@ -5,3 +5,5 @@ Es una aplicación DEMO que cuenta con tres rutas para el acceso a los endpoints
 La aplicación recibe métodos HTTP  GET, POST, PUT, PATCH y  DELETE.
 
 La aplicación está en desarrollo y puede ser utilizada para propósitos de academia o servir como referencia para tu primer webservice y familiarizarte con los conceptos relacionados.
+
+La aplicación esta disponible en código fuente, wsl (Windows Subsystem Linux) y como contenedor (working)
